@@ -1,3 +1,6 @@
+This repo inspired the work in [puppet-metrics-viewer](https://github.com/puppetlabs/puppet-metrics-viewer)
+which is now the preferred way to view metrics data from Puppet.
+
 ## puppetserver-metrics-viz
 
 ![screenshot](./metrics_viz.jpg)
